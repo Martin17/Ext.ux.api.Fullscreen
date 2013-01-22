@@ -14,6 +14,6 @@ This happens because these children are not children of the component in the DOM
 
 Based on http://johndyer.name/native-fullscreen-javascript-api-plus-jquery-plugin/
 
-* Martín Panizzo : Martin17/ <martin@fotolounge.com.ar>
+* Martín Panizzo :  <martin@fotolounge.com.ar>
   @version 0.1-alpha
  
