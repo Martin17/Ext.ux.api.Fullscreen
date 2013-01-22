@@ -110,7 +110,7 @@ Ext.define('Ext.ux.api.Fullscreen', {
                             return;
                         }
                         var el = cmp.getEl().dom;
-                        console.log(cmp.getEl());
+                      //  console.log(cmp.getEl());
                         me.fireEvent('requestfullscreen', me.getCmp(),
                             me.prefix);
                         return (me.prefix === '') ? el
@@ -144,13 +144,13 @@ Ext.define('Ext.ux.api.Fullscreen', {
     enable : function() {
         var me = this;
         me.lockedFullScreen = false;
-        me.callParent();
+       // me.callParent();
     },
 
     disable : function() {
         var me = this;
         me.lockedFullScreen = true;
-        me.callParent();
+       // me.callParent();
     }
 
 });
