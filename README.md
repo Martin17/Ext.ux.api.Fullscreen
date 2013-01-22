@@ -3,8 +3,7 @@
 
 ##Add support for HTML5 API on Ext components.
 
-* Version **0.1-alpha**
-* [Martín Panizzo](/Martin17)
+* Version **0.1-alpha** by [Martín Panizzo](/Martin17)
 
 Plugin for ExtJS components that add standarized support for the fullscreen API. 
 Work with all modern browsers.
