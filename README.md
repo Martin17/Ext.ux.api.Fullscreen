@@ -9,5 +9,5 @@ Components that have floating children do not work properly.
 This happens because these children are not children of the component in the DOM tree.
 Based on http://johndyer.name/native-fullscreen-javascript-api-plus-jquery-plugin/
 
-* Martín Panizzo <martin@fotolounge.com.ar>
+* [Martín Panizzo](/Martin17)
 * Version 0.1-alpha
